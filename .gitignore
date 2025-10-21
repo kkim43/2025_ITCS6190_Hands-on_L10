@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+models/
+spark-warehouse/
+metastore_db/
+.vscode/
+venv/
+.ipynb_checkpoints/
+tmp/
+checkpoint/
+*.parquet
+.env
+
